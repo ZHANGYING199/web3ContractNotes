@@ -1,2 +1,2 @@
-# web3
+# Contract Notes
 web3
